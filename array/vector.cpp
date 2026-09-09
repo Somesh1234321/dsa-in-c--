@@ -6,5 +6,6 @@ int main (){
     vector<int>vec;
     return 0;
     cout << vec[0];
+    cout << vec[1];
 
 }
