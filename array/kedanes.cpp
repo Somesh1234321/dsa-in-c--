@@ -6,3 +6,9 @@ int main(){
     for(int i =0; i<size; i++){
         cin >> marks[i];
 }
+int marks[5]= {99,100,55,66,77};
+    //int size = 5;
+    //loops : 0 to size-1
+    for (int i=0; i<size; i++){
+      cout << marks[i] << endl;
+    }
